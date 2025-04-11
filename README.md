@@ -1,4 +1,4 @@
-# Simple Java code model to begin to explore the shipping domain.
+# Simple Java code model to begin to explore the shipping domain
 
 Classes are layered using domain driven design.
 
